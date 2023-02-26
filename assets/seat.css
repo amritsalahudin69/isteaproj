@@ -1,0 +1,26 @@
+.scon1 {
+    width: 35px;
+    display: inline-block;
+    font-size: 0.8em;
+    text-align: center;
+    height: 50px;
+    position: relative;
+}
+
+.scon1 > div > input {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    text-align: center;
+}
+
+.scon1 > .layer1 {
+    position: absolute;
+    z-index: 1;
+    top:0;
+}
+
+.scon1 > .layer2 {
+    position: relative;
+    z-index: 2;
+}

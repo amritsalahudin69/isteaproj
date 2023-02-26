@@ -1,0 +1,32 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "akiratoriyama",
+            "group": "akiratoriyamag",
+            "database": "akiratoriyama",
+            "username": "rooot",
+            "password": ""
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "akiratoriyama",
+            "group": "akiratoriyamag",
+            "database": "akiratoriyama",
+            "username": "root",
+            "password": ""
+        }
+    ]
+}
